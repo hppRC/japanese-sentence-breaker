@@ -33,7 +33,7 @@ print(out)
 
 
 text = "これは「テストです。｛整合性のないカッコは無視されます。）改行はできません。"
-out = break_line(text)
+out = break_line(text, ignore_unbalanced=True)
 
 print(out)
 # これは「テストです。｛整合性のないカッコは無視されます。）改行はできません。
