@@ -3,6 +3,7 @@ authors = ["hppRC <hpp.ricecake@gmail.com>"]
 description = ""
 homepage = "https://github.com/hpprc/japanese-sentence-breaker"
 name = "japanese-sentence-breaker"
+readme = "README.md"
 repository = "https://github.com/hpprc/japanese-sentence-breaker"
 version = "0.1.0"
 
